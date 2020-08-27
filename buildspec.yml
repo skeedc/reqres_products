@@ -2,7 +2,7 @@ version: 0.2
 
 env:
   variables:
-    IMAGE_REPO_NAME: "skccuser08-products1"
+    IMAGE_REPO_NAME: "skccuser08-products"
 
 phases:
   install:
